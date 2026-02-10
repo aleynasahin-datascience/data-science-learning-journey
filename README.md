@@ -1,58 +1,41 @@
-# data-science-learning-j# Data Science Learning Journey
+# 📊 Data Science Learning Journey
 
 This repository documents my journey to becoming a Data Scientist.
 
-It includes Python fundamentals, data manipulation, statistical thinking, machine learning preparation, and project-based learning.
+## 🎯 Purpose
 
----
+I am building this repository to improve my data science skills, create projects, and track my learning progress.
 
-## 📌 About Me
-I am currently developing skills in Python, data science, and machine learning.  
-This repository tracks my learning progress, experiments, and projects.
+## 📚 Learning Roadmap
 
----
-
-## 📂 Repository Structure
-
-### Week 1 – Python for Data Science
-- Data structures
+### Week 1 – Python Fundamentals
+- Variables
+- Loops
 - Functions
-- Loops & Conditions
-- Functional programming concepts
-- Comprehensions
+- Lists & Dictionaries
 
----
+### Week 2 – Numpy & Pandas
+- Data manipulation
+- Data cleaning
+- Data exploration
 
-### Week 2 – Numerical Computing & Data Manipulation
-- NumPy
-- Pandas
-- Data preprocessing
-- Feature preparation
-- Aggregation techniques
-
----
-
-### Week 3 – Exploratory Data Analysis & Visualization
+### Week 3 – Data Visualization
 - Matplotlib
 - Seaborn
-- Statistical visualization
-- Data exploration techniques
+- Visual storytelling
 
----
+## 🛠 Technologies Used
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
 
-### Projects
-Contains applied data science projects including:
-- Data preprocessing
-- Exploratory data analysis
-- Feature engineering
-- Model preparation
+## 📂 Repository Structure
+- Week1_Python
+- Week2_Numpy_Pandas
+- Week3_DataVisualization
 
----
+## 🚀 Goal
+To become a professional Data Scientist and build strong real-world projects.
 
-## 🎯 Career Goals
-- Become a Data Scientist
-- Build machine learning projects
-- Develop strong statistical understanding
-- Create production-ready data projects
-ourney
-My data science learning and project portfolio
